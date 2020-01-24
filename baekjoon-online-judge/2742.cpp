@@ -1,4 +1,4 @@
-// 2742 : ±âÂï N
+// ±âÂï N
 /*
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>

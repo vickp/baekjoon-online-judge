@@ -1,4 +1,4 @@
-// 1008 : A/B
+// A/B
 /*
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>

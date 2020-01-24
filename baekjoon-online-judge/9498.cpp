@@ -1,4 +1,4 @@
-// 9498 : 矫氰 己利
+// 矫氰 己利
 /*
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
