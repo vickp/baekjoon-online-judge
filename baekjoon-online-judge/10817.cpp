@@ -1,3 +1,5 @@
+// ¼¼ ¼ö
+/*
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 using namespace std;
@@ -15,3 +17,4 @@ int main() {
 		printf("%d", C);
 	}
 }
+*/
